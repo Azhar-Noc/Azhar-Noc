@@ -30,18 +30,40 @@ Incident Management & Network Operations
 
 ---
 
-## 🎓 Certifications & Training
+# Certifications & Training
 
-| Course | Issued By | Status | Certificate |
-|---|---|---|---|
-| Network Security Fundamentals | Palo Alto Networks | ✅ Completed (Jun 2026) | [View](./certificates/paloalto_network_security_fundamentals.pdf) |
-| Security Operations Fundamentals | Palo Alto Networks | ✅ Completed (Jun 2026) | [View](./certificates/paloalto_security_operations_fundamentals.pdf) |
-| CCNA — Training Program | RST Forum | ✅ Completed (Jun 2021) | [View](./certificates/ccna_rstforum.pdf) |
-| CCNP ENCOR — Training Program | RST Forum | ✅ Completed (Jul 2024) | [View](./certificates/ccnp_encor_rstforum.pdf) |
+A record of my completed courses and training programs in networking and security.
+
+## 🎓 Certifications
+
+### Network Security Fundamentals
+- **Issued by:** Palo Alto Networks
+- **Completed:** June 2026
+- 📄 [Certificate (PDF)](./Palo-Alto/network_security_fundamentals.pdf)
+
+### Security Operations Fundamentals
+- **Issued by:** Palo Alto Networks
+- **Completed:** June 2026
+- 📄 [Certificate (PDF)](./Palo-Alto/security_operations_fundamentals.pdf)
+
+---
+
+## 📘 Training Programs
+
+### CCNA — Training Program
+- **Completed at:** RST Forum
+- **Completed:** June 2021
+- 📄 [Certificate (PDF)](./CCNA/ccna_certificate.pdf)
+
+### CCNP ENCOR — Training Program
+- **Completed at:** RST Forum
+- **Completed:** July 2024
+- 📄 [Certificate (PDF)](./CCNP-ENCOR/ccnp_encor_certificate.pdf)
 
 > *Note: CCNA and CCNP ENCOR entries reflect completed training programs at RST Forum, not official Cisco certifications.*
 
 ---
+
 
 ## 🚀 Goals
 - 📈 Grow as a **Network / Infrastructure Engineer**
