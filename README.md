@@ -64,6 +64,25 @@ A record of my completed courses and training programs in networking and securit
 
 ---
 
+## 📂 Repo Structure
+
+```
+certifications/
+├── Palo-Alto/
+│   ├── network_security_fundamentals.pdf
+│   └── security_operations_fundamentals.pdf
+├── CCNA/
+│   └── ccna_certificate.pdf
+├── CCNP-ENCOR/
+│   └── ccnp_encor_certificate.pdf
+└── README.md
+```
+
+---
+
+
+
+
 
 ## 🚀 Goals
 - 📈 Grow as a **Network / Infrastructure Engineer**
