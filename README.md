@@ -46,6 +46,7 @@ Ethical Hacking Fundamentals
 | Course | Issued By | Status | Certificate |
 |---|---|---|---|
 | Certified Ethical Hacker (CEH) | EC-Council | 🎯 In Progress | — |
+| Certified Offensive Security Associate | The Cyber Ledger | ✅ Certified (Oct 2026) | [View](./certificates/cosa_thecyberledger.pdf) · [Verify](https://academy.thecyberledger.in/verify/TCL-CERT-FB-F651195608) |
 | Network Security Fundamentals | Palo Alto Networks | ✅ Completed (Jun 2026) | [View](./certificates/paloalto_network_security_fundamentals.pdf) |
 | Security Operations Fundamentals | Palo Alto Networks | ✅ Completed (Jun 2026) | [View](./certificates/paloalto_security_operations_fundamentals.pdf) |
 | CCNA — Training Program | RST Forum | ✅ Completed (Jun 2021) | [View](./certificates/ccna_rstforum.pdf) |
