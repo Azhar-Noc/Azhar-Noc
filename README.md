@@ -45,7 +45,7 @@ Ethical Hacking Fundamentals
 
 | Course | Issued By | Status | Certificate |
 |---|---|---|---|
-| Certified Ethical Hacker (CEH) | EC-Council | 🎯 In Progress | — |
+| Certified Ethical Hacker (CEH) | EC-Council | ✅ Certified (Nov 2026) | [View](./certificates/ceh_eccouncil.pdf) |
 | Certified Cyber Security Analyst (C3SA) | CyberWarfare Labs | ✅ Certified (Oct 2026) | [View](./certificates/c3sa_cyberwarfarelabs.pdf) |
 | Certified Offensive Security Associate (COSA) | The Cyber Ledger | ✅ Certified (Oct 2026) | [Verify](https://academy.thecyberledger.in/verify/TCL-CERT-FB-F651195608) |
 | Network Security Fundamentals | Palo Alto Networks | ✅ Completed (Jun 2026) | [View](./certificates/paloalto_network_security_fundamentals.pdf) |
@@ -54,7 +54,6 @@ Ethical Hacking Fundamentals
 | CCNP ENCOR — Training Program | RST Forum | ✅ Completed (Jul 2024) | [View](./certificates/ccnp_encor_rstforum.pdf) |
 
 > *Note: CCNA and CCNP ENCOR entries reflect completed training programs at RST Forum, not official Cisco certifications.*
-
 ---
 
 ## 🧪 Hands-On Practice
