@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Azhar Khan
-### 🛡️ Aspiring VAPT Analyst | SOC & Security Operations | Cybersecurity Enthusiast | Network Security
+### 🛡️ CEH v13 | Aspiring VAPT Analyst | SOC & Security Operations | Cybersecurity Enthusiast | Network Security
 
 *Breaking things to build stronger defenses.*
 
@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm transitioning from Network Operations into **Cybersecurity — specifically VAPT and ethical hacking**. My networking background (SIP/VoIP, routing & switching, 24x7 incident response) gives me a strong foundation for understanding how systems fail and how attackers exploit them. I'm currently building hands-on offensive security skills through CTFs, TryHackMe rooms, and a home lab, while pursuing my **CEH certification**.
+I'm transitioning from Network Operations into **Cybersecurity — specifically VAPT and ethical hacking**. My networking background (SIP/VoIP, routing & switching, 24x7 incident response) gives me a strong foundation for understanding how systems fail and how attackers exploit them. I'm currently building hands-on offensive security skills through CTFs, TryHackMe rooms, and a home lab.
 
 ```
 Vulnerability Assessment & Penetration Testing (VAPT)
